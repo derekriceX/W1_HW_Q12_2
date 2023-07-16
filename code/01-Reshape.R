@@ -1,6 +1,3 @@
-## INFO523 - Homework Week 2 - Question 12.5
-## adding some annotations
-
 ### 01-Reshape.R
 # install.packages("reshape2")
 # library(reshape2)
